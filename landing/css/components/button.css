@@ -1,0 +1,18 @@
+
+.btn-product{
+  padding: 20px 40px;
+  background-color: rgb(244, 63, 8);
+  border-radius: 16px;
+  font-weight: bold;
+  font-family: "arial black";
+  color: rgb(243, 243, 242);
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  transition: background-color 0.5s;
+  display: inline-block;
+  margin-top: 24px;
+}
+
+.btn-product:hover{
+  background-color: rgb(243, 243, 242);
+  color: rgb(244, 63, 8);
+}

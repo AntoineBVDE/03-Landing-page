@@ -1,0 +1,12 @@
+.banne{
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+
+.banne_info{
+  margin-left: 184px;
+  }
